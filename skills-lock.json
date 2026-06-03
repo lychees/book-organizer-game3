@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "unity-repl": {
+      "source": "D:\\Dev\\unity_games\\bookshelf5\\Packages\\com.lambda-labs.unity-repl",
+      "sourceType": "local",
+      "computedHash": "1c7a0d8214be89ff5154af686161ae03b72db23e561cf56a2142fc2d869d7010"
+    }
+  }
+}
